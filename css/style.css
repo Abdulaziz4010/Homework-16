@@ -172,6 +172,7 @@ nav ul li a {
   button {
     background-color: #46dbbf;
     color: #202e3d;
+    cursor: pointer;
   }
 }
 
